@@ -16,10 +16,10 @@ Replacing `VITS`' `TextEncoder` with [`HuBERT`](https://github.com/bshall/hubert
 eliminates the need for inputting phoneme sequences (i.e., eliminate language dependence).
 `HuBERT` is part of [`SoftVC`](https://github.com/bshall/soft-vc).
 
-- [CjangCjengh/MoeGoe: Executable file for VITS inference](https://github.com/CjangCjengh/MoeGoe)
-- [innnky/so\-vits\-svc: 基于vits与softvc的歌声音色转换模型](https://github.com/innnky/so-vits-svc) (SoftVC/W2V2)
-- [PlayVoice/VI\-SVC: vits singing voice conversion based on ppg & hubert；singing voice clone;](https://github.com/PlayVoice/VI-SVC)
+- [innnky/so\-vits\-svc: 基于vits与softvc的歌声音色转换模型](https://github.com/innnky/so-vits-svc)
 - [quickvc/QuickVC\-VoiceConversion: QuickVC: Any\-to\-many Voice Conversion Using Inverse Short\-time Fourier Transform for Faster Conversion](https://github.com/quickvc/QuickVC-VoiceConversion)
+- [CjangCjengh/MoeGoe: Executable file for VITS inference](https://github.com/CjangCjengh/MoeGoe) (SoftVC/W2V2)
+- [PlayVoice/VI\-SVC: vits singing voice conversion based on ppg & hubert；singing voice clone;](https://github.com/PlayVoice/VI-SVC)
 - [Francis\-Komizu/Sovits: An implementation of the combination of Soft\-VC and VITS](https://github.com/Francis-Komizu/Sovits) Deprecated
 - [vtuber\-plan/vcvits: Non Parallel Voice Conversion based on VITS](https://github.com/vtuber-plan/vcvits)
 
@@ -38,6 +38,7 @@ Performance is improved by improving the decoder, which was the bottleneck, with
 - [CODEJIN/VITS\_Diffusion](https://github.com/CODEJIN/VITS_Diffusion)
 - [hcy71o/SC\-VITS: VITS\-based zero\-shot TTS system varying with diverse style/speaker conditioning methods\.](https://github.com/hcy71o/SC-VITS)
 - [innnky/emotional\-vits: 无需情感标注的情感可控语音合成模型，基于VITS](https://github.com/innnky/emotional-vits)
+- [OlaWod/FreeVC: FreeVC: Towards High\-Quality Text\-Free One\-Shot Voice Conversion](https://github.com/OlaWod/FreeVC)
 - [Edresson/YourTTS: YourTTS: Towards Zero\-Shot Multi\-Speaker TTS and Zero\-Shot Voice Conversion for everyone](https://github.com/Edresson/YourTTS) Zero-shot voice conversion which developed earlier.
 
 ### Other Languages
